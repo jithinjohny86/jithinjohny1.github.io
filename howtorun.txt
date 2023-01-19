@@ -1,0 +1,4 @@
+open the repo
+go to settings
+go to pages
+click on visit site
