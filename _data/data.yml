@@ -22,14 +22,14 @@ education:
     university: Calicut University
 
 skills:
-  - category: Backend
+  - category: CICD
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - 
+      - 
+  - category: Terraform
     skill:
-      - React
-      - Typescript
+      - 
+      - 
   - category: DevOps
     skill:
       - Docker
