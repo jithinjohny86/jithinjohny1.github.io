@@ -5,8 +5,8 @@ fork: true
 # Sidebar
 contact:
   email: johny.jithin@gmail.com
-  github: johndoe
-  linkedin: johndoe
+  github: jithinjohny86
+  linkedin: jithinjohny
   phone: +1-(647)-769-2488
   gitlab: 
   twitter: 
@@ -20,10 +20,6 @@ education:
   - degree: Bachleors in Engineering
     time: 2005-2009
     university: Calicut University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
 
 skills:
   - category: Backend
@@ -41,7 +37,7 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  Type in English. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
